@@ -17,9 +17,11 @@ const url = config.url
 //configurações - geral
 const tempo = config.tempo
 const clientid = config.clientid
+const states = config.state
 
 const activity = {
     details: detalhes,
+    state: states,
     assets: {
         large_image: image_larga,
         large_text: texto_larga,
