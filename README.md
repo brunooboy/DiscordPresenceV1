@@ -8,10 +8,10 @@ npm install discord-rpc
 ```
 
 # Como usar?
-1 - Crie um bot entrando na (Discord Developer)[https://discord.com/developers/applications]
-2 - Pegue o id do client e coloque na *config.json*
-3 - Em seguida vá na aba de **Rich Presence** e adicione as imagems ao client.
-4 - A imagem vai ter um nome, esse nome você coloca na *config.json* bem onde você quer colocar as imagems.
+1 - Crie um bot entrando na (Discord Developer)[https://discord.com/developers/applications]\n
+2 - Pegue o id do client e coloque na *config.json*\n
+3 - Em seguida vá na aba de **Rich Presence** e adicione as imagems ao client.\n
+4 - A imagem vai ter um nome, esse nome você coloca na *config.json* bem onde você quer colocar as imagems.\n
 
 **Exemplo:**
 ```json
