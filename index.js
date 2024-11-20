@@ -71,7 +71,7 @@ client.on("ready", () => {
     console.log('___________________¶¶¶¶¶¶¶¶¶¶' + "\n")
 
 
-    console.log(colors.blue('Github: ') + colors.yellow('https://github.com/elingboy') + "\n")
+    console.log(colors.blue('Github: ') + colors.yellow('https://github.com/brunooboy') + "\n")
 
     console.log(colors.black('===================='))
     console.log(colors.green('Discord Presence ON'))
